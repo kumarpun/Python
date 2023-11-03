@@ -19,5 +19,5 @@ class EmployeeDetails:
 
 
 emp = EmployeeDetails("kumar", 986517, "nepal")
-emp.empDetails()
-emp.empName()
+# emp.empDetails()
+# emp.empName()
